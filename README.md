@@ -1,7 +1,6 @@
 # AI-Plays-Flappy-Bird
 
-Python code for using generators.
-
+Python code for using pygame to play flappy bird by NEAT AI algorithm.
 Tools used:
 1. Pycharm Community Edition 2019.3.1
 
